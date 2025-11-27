@@ -1,0 +1,4 @@
+mcp[cli]
+pandas
+# Optional but nice for anomaly detection. If this gives you trouble, delete it:
+scikit-learn
